@@ -2,13 +2,16 @@ import React, { useState } from "react";
 import Header from "../../Components/common/Header";
 import TabOptions from "../../Components/common/Tabs";
 import Footer from "../../Components/common/Footer";
+import Delivery from "../../Components/Delivery";
+import DiningOut from "../../Components/DiningOut";
+import NightLife from "../../Components/NightLife";
 
 const Home = () => {
   const [activeTab, setActiveTab] = useState("Delivery");
   return (
     <div>
       <Header />
-      <TabOptions />
+      <TabOptions activeTab={activeTab} setActiveTab={setActiveTab} />
       {/* change pages */}
       {getCorrectScreen(activeTab)}
       <Footer />
@@ -19,13 +22,13 @@ const Home = () => {
 const getCorrectScreen = (tab) => {
   switch (tab) {
     case "Delivery":
-      return <div>Delivery page</div>;
+      return <Delivery />;
     case "Dining Out":
-      return <div>Dining Out</div>;
-    case "Night Life":
-      return <div>Night Life</div>;
+      return <DiningOut />;
+    case "Nightlife":
+      return <NightLife />;
     default:
-      return <div>Delivery page</div>;
+      return <Delivery />;
   }
 };
 export default Home;

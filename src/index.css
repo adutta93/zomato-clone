@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import "./styles/commonStyleClasses.css";
+@import "./styles/vraiable.css";
 
 body {
   margin: 0;
@@ -8,7 +10,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-}
+} */

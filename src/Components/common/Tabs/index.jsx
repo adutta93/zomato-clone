@@ -1,7 +1,11 @@
 import React from "react";
 
-const TabOptions = () => {
-  return <div>Tab Options</div>;
+const TabOptions = ({ activeTab, setActiveTab }) => {
+  return (
+    <div>
+      <button onClick={() => setActiveTab("Nightlife")}>Click</button>
+    </div>
+  );
 };
 
 export default TabOptions;
