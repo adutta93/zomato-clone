@@ -112,6 +112,7 @@ const Footer = () => {
             className="footer-name"
             href="https://www.linkedin.com/in/akash-dutta-0a4993173/"
             target="_blank"
+            rel="noreferrer"
           >
             Akash Dutta
           </a>
