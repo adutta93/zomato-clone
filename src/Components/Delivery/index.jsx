@@ -1,5 +1,6 @@
 import React from "react";
 import Filters from "../common/Filters";
+import Explore from "../common/Explore";
 import TopBrands from "./TopBrands/index";
 import DeliveryCollections from "./DeliveryCollections";
 import "./delivery.css";
@@ -39,6 +40,7 @@ const Delivery = () => {
         <Filters filters={filters} />
         <DeliveryCollections />
         <TopBrands />
+        <Explore />
       </div>
     </div>
   );
