@@ -15,7 +15,7 @@ const Footer = () => {
         />
       </div>
       <div className="content">
-        <div classNames="services">
+        <div className="services">
           <h4>COMPANY</h4>
           <p>
             <a href="/">Who We Are</a>
@@ -51,13 +51,13 @@ const Footer = () => {
             <a href="/">Mobile Apps</a>
           </p>
         </div>
-        <div cclassName="links">
+        <div className="links">
           <h4>FOR RESTURANTS</h4>
           <p>
             <a href="/">Add restaurant</a>
           </p>
         </div>
-        <div cclassName="links">
+        <div className="links">
           <h4>FOR YOU</h4>
           <p>
             <a href="/">Privacy</a>
@@ -106,7 +106,12 @@ const Footer = () => {
       </div>
       <footer>
         <hr style={{ color: "grey" }} />
-        &copy; 2021 ABCDEF Technologies Pvt. Ltd.
+        Made with ❤️ by{" "}
+        <span>
+          <a className="footer-name" href="https://github.com/akash-dutta-au7">
+            Akash Dutta
+          </a>
+        </span>
       </footer>
     </div>
   );

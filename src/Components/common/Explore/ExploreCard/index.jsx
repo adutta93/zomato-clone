@@ -22,7 +22,6 @@ const ExploreCard = ({ restaurant }) => {
       ? offers[0].text
       : null;
 
-  console.log("Dining page ===>", cuisines.length);
   return (
     <div className="explore-card cur-po">
       <div className="explore-card-cover">
@@ -46,7 +45,7 @@ const ExploreCard = ({ restaurant }) => {
           <div className="res-cuisine">
             {cuisines.map((item, i) => {
               return (
-                <span className="res-cuisine-tag">
+                <span className="res-cuisine-tag" key={i}>
                   {item} {i !== cuisines.length - 1 && ","}
                 </span>
               );

@@ -38,7 +38,10 @@
   text-decoration: none;
   color: var(--inactive-text);
 }
-
+.footer-name {
+  text-decoration: none;
+  color: var(--new-zomato-red);
+}
 .footer .content a:hover {
   border-bottom: 1px solid var(--heading-text);
 }
