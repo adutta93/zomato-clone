@@ -108,7 +108,11 @@ const Footer = () => {
         <hr style={{ color: "grey" }} />
         Made with ❤️ by{" "}
         <span>
-          <a className="footer-name" href="https://github.com/akash-dutta-au7">
+          <a
+            className="footer-name"
+            href="https://www.linkedin.com/in/akash-dutta-0a4993173/"
+            target="_blank"
+          >
             Akash Dutta
           </a>
         </span>
