@@ -7,7 +7,7 @@ const ExploreCard = ({ restaurant }) => {
     restaurant?.info?.image?.url ?? restaurant?.info?.o2FeaturedImage?.url;
   const deliveryTime = restaurant?.order?.deliveryTime;
   const rating = restaurant?.info?.rating?.rating_text;
-  const approxPrice = restaurant?.info?.cfo?.text;
+  const approxPrice = restaurant?.info?.cft?.text;
   const offers = restaurant?.bulkOffers ?? [];
   const cuisines = restaurant?.info?.cuisine
     ?.map((item) => item.name)
@@ -25,7 +25,45 @@ const ExploreCard = ({ restaurant }) => {
     <div className="explore-card cur-po">
       <div className="explore-card-cover">
         <img src={coverImg} alt={name} className="explore-card-image" />
+        <div className="delivery-time">{deliveryTime}</div>
+        {proOff && <div className="pro-Off">{proOff}</div>}
+        {goldOff && <div className="gold-Off absolute-center">{goldOff}</div>}
+        {discount && <div className="discount absolute-center">{discount}</div>}
       </div>
+      <div className="res-row">
+        <div className="res-name">{name}</div>
+        {rating && (
+          <div className="res-rating absolute-center">
+            {rating} <i className="fi fi-rr-star absolute-center"></i>
+          </div>
+        )}
+      </div>
+      <div className="res-row">
+        {cuisines.length && (
+          <div className="res-cuisine">
+            {cuisines.map((item, i) => {
+              return (
+                <span className="res-cuisine-tag">
+                  {item} {i !== cuisines.length - 1 && ","}
+                </span>
+              );
+            })}
+            {approxPrice && <div className="approx-price">{approxPrice}</div>}
+          </div>
+        )}
+      </div>
+      {bottomContainers.length > 0 && (
+        <div className="card-seperator">
+          <div className="explore-bottom">
+            <img
+              src={bottomContainers[0]?.image?.url}
+              alt={bottomContainers[0]?.text}
+              style={{ height: "18px" }}
+            />
+            <div className="res-bottom-text">{bottomContainers[0]?.text}</div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

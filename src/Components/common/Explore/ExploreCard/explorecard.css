@@ -18,3 +18,62 @@
   object-fit: cover;
   border-radius: 15px;
 }
+
+.delivery-time {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  opacity: 0.8;
+  background-color: var(--primary-bg);
+  backdrop-filter: blur(4px);
+  border-radius: 5px;
+  padding: 2px 4px 2px;
+  font-size: 12px;
+}
+
+.pro-Off {
+  position: absolute;
+  left: 0px;
+  bottom: 40px;
+  background-color: var(--tag-red);
+  color: var(--border-white);
+  font-size: 14px;
+  padding: 0px 6px;
+  border-radius: 0px 2px 2px 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+.discount {
+  position: absolute;
+  left: 0px;
+  bottom: 15px;
+  background-color: var(--tag-blue);
+  color: var(--border-white);
+  font-size: 14px;
+  padding: 0px 6px;
+  border-radius: 0px 2px 2px 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 18px;
+  font-weight: 500;
+}
+.gold-Off {
+  position: absolute;
+  left: 0px;
+  bottom: 14px;
+  background-color: var(--tag-red);
+  color: var(--border-white);
+  font-size: 14px;
+  padding: 0px 6px;
+  border-radius: 0px 2px 2px 0px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 18px;
+  font-weight: 500;
+}
