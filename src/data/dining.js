@@ -5225,4 +5225,5309 @@ export const diningData = [
       },
     ],
   },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19813485,
+      name: "LA Artisan Bistro",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/5/19813485/eb22b1b2b5143b1080c54e73feb40bfb_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/5/19813485/eb22b1b2b5143b1080c54e73feb40bfb_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: false,
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.7",
+        rating_text: "3.7",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "92",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "3.7",
+            reviewCount: "92",
+            reviewTextSmall: "92 Reviews",
+            subtext: "92 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "3.7",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,800 for two",
+      },
+      cfo: {
+        text: "₹750 for one",
+      },
+      locality: {
+        name: "New Town, Kolkata",
+        address: "02-0108, Rajarhat, Action Area 1, New Town, Kolkata",
+        localityUrl: "kolkata/new-town-restaurants",
+      },
+      timing: {
+        text: "Closes in 1 hour 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzhcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/european/",
+          name: "European",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/la-artisan-bistro-new-town/info",
+      clickActionDeeplink: "",
+    },
+    distance: "9.9 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19813485","element_type":"listing","rank":58}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18848647,
+      name: "Friends Of Pho - Asian Fine Dining Club",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/18848647/7b3f77c2f41b0cbde29a036ad42b99ec_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/18848647/7b3f77c2f41b0cbde29a036ad42b99ec_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/7/18848647/9a8fe3372a5e84fc9ca916233ba8d681_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,958",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "780",
+            reviewTextSmall: "780 Reviews",
+            subtext: "780 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "1,178",
+            reviewTextSmall: "1,178 Reviews",
+            subtext: "1,178 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,700 for two",
+      },
+      cfo: {
+        text: "₹700 for one",
+      },
+      locality: {
+        name: "Chinar Park, Kolkata",
+        address:
+          "Silver Arch Rajarhat Main Road Tegoria, Near Loknath Mandir, Chinar Park, Kolkata",
+        localityUrl: "kolkata/chinar-park-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/thai/",
+          name: "Thai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTlcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/vietnamese/",
+          name: "Vietnamese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNjlcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/malaysian/",
+          name: "Malaysian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/shake/",
+          name: "Shake",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,700 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 25% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl:
+        "/kolkata/friends-of-pho-asian-fine-dining-club-chinar-park/info",
+      clickActionDeeplink: "",
+    },
+    distance: "9.5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18848647","element_type":"listing","rank":59}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl:
+          "/kolkata/friends-of-pho-asian-fine-dining-club-chinar-park/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19621043,
+      name: "The Yellow Turtle",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19621043/f03f8a9c3301c093f73230b5c4535c92_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/3/19621043/f03f8a9c3301c093f73230b5c4535c92_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19621043/2a5c594a6c93038fa4d6e086352ff0d7_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "598",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "170",
+            reviewTextSmall: "170 Reviews",
+            subtext: "170 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.2",
+            reviewCount: "428",
+            reviewTextSmall: "428 Reviews",
+            subtext: "428 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.2",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹900 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Hindustan Park, Kolkata",
+        address: "P-596, Hemanta Mukherjee Sarani, Hindustan Park, Kolkata",
+        localityUrl: "kolkata/hindustan-park-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/thai/",
+          name: "Thai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/sea-food/",
+          name: "Seafood",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/sandwich/",
+          name: "Sandwich",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹900 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/the-yellow-turtle-hindustan-park/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19621043","element_type":"listing","rank":60}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/the-yellow-turtle-hindustan-park/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18361667,
+      name: "Monkey Bar",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/7/18361667/a99aba4e3b8d348e6ef63d699f4a4088_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/7/18361667/a99aba4e3b8d348e6ef63d699f4a4088_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/7/18361667/05eede8000ae206f5621ffefbfc4891e_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "3,437",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "2,108",
+            reviewTextSmall: "2,108 Reviews",
+            subtext: "2,108 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.9",
+            reviewCount: "1,329",
+            reviewTextSmall: "1,329 Reviews",
+            subtext: "1,329 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.9",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹600 for one",
+      },
+      locality: {
+        name: "Camac Street Area, Kolkata",
+        address:
+          "801 A - 901 A, Fort Knox Building 6, Abindranath Thakur Sarani, Ward 63, Camac Street Area, Kolkata",
+        localityUrl: "kolkata/camac-street-area-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/burger/",
+          name: "Burger",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/monkey-bar-camac-street-area/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18361667","element_type":"listing","rank":61}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/monkey-bar-camac-street-area/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19213376,
+      name: "Riyasat-E-Hind",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/6/19213376/9de34c0eb967a9e34588c2053d8f27fe_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/6/19213376/9de34c0eb967a9e34588c2053d8f27fe_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/19213376/83e09dc2448bfe498a8c3978ae8e4e47_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,052",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "494",
+            reviewTextSmall: "494 Reviews",
+            subtext: "494 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.8",
+            reviewCount: "558",
+            reviewTextSmall: "558 Reviews",
+            subtext: "558 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.8",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Ballygunge, Kolkata",
+        address: "51, Ground Floor, Syed Amir Ali Avenue, Ballygunge, Kolkata",
+        localityUrl: "kolkata/ballygunge-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/riyasat-e-hind-ballygunge/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19213376","element_type":"listing","rank":62}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/riyasat-e-hind-ballygunge/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18420478,
+      name: "Fabbrica",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/8/18420478/5c4c7087923ac11714e3d99e13178fa8_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/8/18420478/5c4c7087923ac11714e3d99e13178fa8_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/8/18420478/13f281c150c409d93768cc76553d563c_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "3,268",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "1,705",
+            reviewTextSmall: "1,705 Reviews",
+            subtext: "1,705 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "1,563",
+            reviewTextSmall: "1,563 Reviews",
+            subtext: "1,563 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Elgin, Kolkata",
+        address: "8A, Allenby Park, Elgin, Kolkata",
+        localityUrl: "kolkata/elgin-restaurants",
+      },
+      timing: {
+        text: "Closes in 1 hour 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/shake/",
+          name: "Shake",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/fabbrica-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18420478","element_type":"listing","rank":63}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/fabbrica-elgin/book",
+      },
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/fabbrica?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18296346,
+      name: "Zucca Lounge",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/6/18296346/309ce2392daebc704c4b31fa79b6e19c_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/6/18296346/309ce2392daebc704c4b31fa79b6e19c_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/18296346/0b27da314eebe748aa2f7ee7d8137878_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.8",
+        rating_text: "3.8",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "1,819",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "3.8",
+            reviewCount: "1,819",
+            reviewTextSmall: "1,819 Reviews",
+            subtext: "1,819 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "3.8",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹600 for one",
+      },
+      locality: {
+        name: "Southern Avenue, Kolkata",
+        address: "P 264C, Hemanta Mukhopadhay Sarani, Southern Avenue, Kolkata",
+        localityUrl: "kolkata/southern-avenue-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/zucca-lounge-southern-avenue/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.3 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18296346","element_type":"listing","rank":64}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/zucca-lounge-southern-avenue/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19263358,
+      name: "Pub 13",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/8/19263358/fa9da4dd45662693c96434560e49d53a_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/8/19263358/fa9da4dd45662693c96434560e49d53a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: false,
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.0",
+        rating_text: "4.0",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "439",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "439",
+            reviewTextSmall: "439 Reviews",
+            subtext: "439 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Camac Street Area, Kolkata",
+        address: "13, Ho ChI Min Saranai, Camac Street Area, Kolkata",
+        localityUrl: "kolkata/camac-street-area-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/pub-13-camac-street-area/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19263358","element_type":"listing","rank":65}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/pub-13-camac-street-area/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 20002,
+      name: "6 Ballygunge Place",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/2/20002/80fdd4ed66495554d05cd4e34fb8050d_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/2/20002/80fdd4ed66495554d05cd4e34fb8050d_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/2/20002/33924ca63b290e21ff6f7dc95a519a5f_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "6,788",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.5",
+            reviewCount: "3,838",
+            reviewTextSmall: "3,838 Reviews",
+            subtext: "3,838 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.5",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.2",
+            reviewCount: "2,950",
+            reviewTextSmall: "2,950 Reviews",
+            subtext: "2,950 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.2",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Ballygunge, Kolkata",
+        address: "6, Ballygunge Place, Ballygunge, Kolkata",
+        localityUrl: "kolkata/ballygunge-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/bengali/",
+          name: "Bengali",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQ1XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/bangladeshi/",
+          name: "Bangladeshi",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/6-ballygunge-place-ballygunge/info",
+      clickActionDeeplink: "",
+    },
+    distance: "5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"20002","element_type":"listing","rank":66}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/6-ballygunge-place?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19567622,
+      name: "Black Brick Cafe",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/2/19567622/5bb547b800e5d019690176242bb3fc64_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/2/19567622/5bb547b800e5d019690176242bb3fc64_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/2/19567622/faf358a587bffd9bad01a5427578ca02_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.0",
+        rating_text: "4.0",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "426",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "332",
+            reviewTextSmall: "332 Reviews",
+            subtext: "332 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "94",
+            reviewTextSmall: "94 Reviews",
+            subtext: "94 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹400 for one",
+      },
+      locality: {
+        name: "Elgin, Kolkata",
+        address: "60/1, Chowringee Road, Elgin, Kolkata",
+        localityUrl: "kolkata/elgin-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/american/",
+          name: "American",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/thai/",
+          name: "Thai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/burmese/",
+          name: "Burmese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/black-brick-cafe-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19567622","element_type":"listing","rank":67}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19894367,
+      name: "Karim's - Original From Jama Masjid Delhi-6",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19894367/d19730c3cce0a03d3d0d29bd2b9a5903_o2_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/19894367/d19730c3cce0a03d3d0d29bd2b9a5903_o2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19894367/d19730c3cce0a03d3d0d29bd2b9a5903_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.8",
+        rating_text: "NEW",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "133",
+        subtext: "REVIEWS",
+        is_new: true,
+      },
+      ratingNew: {
+        newlyOpenedObj: {
+          text: "Newly Opened",
+          color: "#FFFFFF",
+          bgColor: "#F4A266",
+          bgColorV2: {
+            type: "green",
+            tint: "100",
+          },
+          subtitle: "OUTLET",
+          ratingV2: "New",
+        },
+        suspiciousReviewObj: null,
+        ratings: [],
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Hatibagan, Kolkata",
+        address: "84, Sri Aurobindo Sarani, Ward -17, Hatibagan, Kolkata",
+        localityUrl: "kolkata/hatibagan-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl:
+        "/kolkata/karims-original-from-jama-masjid-delhi-6-hatibagan/info",
+      clickActionDeeplink: "",
+    },
+    distance: "2.5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19894367","element_type":"listing","rank":68}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19434924,
+      name: "Zobet",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/4/19434924/485b6c98c425909f33895072082b3fdf_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/4/19434924/485b6c98c425909f33895072082b3fdf_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/4/19434924/67608d13b6f6ea0c057056a8168ec5a7_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "246",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "3.9",
+            reviewCount: "204",
+            reviewTextSmall: "204 Reviews",
+            subtext: "204 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "3.9",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.5",
+            reviewCount: "42",
+            reviewTextSmall: "42 Reviews",
+            subtext: "42 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.5",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Camac Street Area, Kolkata",
+        address:
+          "6, 4th Floor, Abanindra Nath Thakur Sarani, Camac Street Area, Kolkata",
+        localityUrl: "kolkata/camac-street-area-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/salad/",
+          name: "Salad",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/zobet-1-camac-street-area/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19434924","element_type":"listing","rank":69}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19214926,
+      name: "Tribe",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/6/19214926/3d817b300834b8cbc1babecbceebfec5_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/6/19214926/3d817b300834b8cbc1babecbceebfec5_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/19214926/a676a8802d86c2881f38252b48c1d00f_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "388",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "298",
+            reviewTextSmall: "298 Reviews",
+            subtext: "298 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "90",
+            reviewTextSmall: "90 Reviews",
+            subtext: "90 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹600 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Golpark, Kolkata",
+        address: "67, Ballygunge Gardens, Golpark, Kolkata",
+        localityUrl: "kolkata/golpark-restaurants",
+      },
+      timing: {
+        text: "Closes in 1 hour 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTk4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/salad/",
+          name: "Salad",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/shake/",
+          name: "Shake",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹600 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/tribe-golpark/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.1 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19214926","element_type":"listing","rank":70}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 21220,
+      name: "Flame & Grill",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/0/21220/87997832e2b649d75d05f865f4d4a89b_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/0/21220/87997832e2b649d75d05f865f4d4a89b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/9/21219/67a2a0cc82a10e7b9326aefb301c1b43_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.9",
+        rating_text: "3.9",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "2,321",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "2,138",
+            reviewTextSmall: "2,138 Reviews",
+            subtext: "2,138 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.5",
+            reviewCount: "183",
+            reviewTextSmall: "183 Reviews",
+            subtext: "183 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.5",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹2,100 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Mani Square Mall, Kankurgachi, Kolkata",
+        address:
+          "164/1, 4th Floor, Mani Square Mall, E.M. Bypass, Kankurgachi, Kolkata",
+        localityUrl: "kolkata/restaurants/in/mani-square-mall-embypass",
+      },
+      timing: {
+        text: "Closes in 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/bengali/",
+          name: "Bengali",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹2,100 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/flame-grill-kankurgachi/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.8 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21220","element_type":"listing","rank":71}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/flame-grill-kankurgachi/book",
+      },
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/flame-grill?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18711365,
+      name: "The Saffron Tree",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/5/18711365/b2b19167394b217381ca381803bd7fc8_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/5/18711365/b2b19167394b217381ca381803bd7fc8_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/5/18711365/090623d0fb1f019fa18afd87f4d7c170_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "2,649",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.8",
+            reviewCount: "2,519",
+            reviewTextSmall: "2,519 Reviews",
+            subtext: "2,519 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.8",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "130",
+            reviewTextSmall: "130 Reviews",
+            subtext: "130 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,600 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Southern Avenue, Kolkata",
+        address: "100, Raja Basanta Roy Road, Southern Avenue, Kolkata",
+        localityUrl: "kolkata/southern-avenue-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/biryani/",
+          name: "Biryani",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,600 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/the-saffron-tree-southern-avenue/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.6 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18711365","element_type":"listing","rank":72}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18296336,
+      name: "Pour House",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/6/18296336/af80d2590842c2ed6756ed73b200bbc3_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/6/18296336/af80d2590842c2ed6756ed73b200bbc3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/18296336/b8b5e1bb0e4a3da22b267ba9cb3bc0e9_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,549",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "1,539",
+            reviewTextSmall: "1,539 Reviews",
+            subtext: "1,539 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "10",
+            reviewTextSmall: "10 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 5, Salt Lake, Kolkata",
+        address:
+          "Plot L1, 1st Floor, Meghatherm Tower, Block GP, Near RDB Cinema, Sector 5, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-5-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,800 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/pour-house-sector-5-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "7.1 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18296336","element_type":"listing","rank":73}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/pour-house-sector-5-salt-lake/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18604711,
+      name: "Artsy",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/1/18604711/f6c6b153944349166cc860e707f292d3_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/1/18604711/f6c6b153944349166cc860e707f292d3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/1/18604711/8363c449a7fccd602b6c6beb069d2271_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,270",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "1,027",
+            reviewTextSmall: "1,027 Reviews",
+            subtext: "1,027 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "243",
+            reviewTextSmall: "243 Reviews",
+            subtext: "243 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹700 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Minto Park, Kolkata",
+        address: "230/B, AJC Bose Road, Minto Park, Kolkata",
+        localityUrl: "kolkata/minto-park-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹700 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/artsy-1-minto-park/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.7 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18604711","element_type":"listing","rank":74}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/artsy-1-minto-park/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18377076,
+      name: "Fusion Fantasea",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/6/18377076/5db3cc2ac02d2612293eebc039be5104_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/6/18377076/5db3cc2ac02d2612293eebc039be5104_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/18377076/e06724ec916c66a8ad0243ab28044297_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "2,680",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "2,233",
+            reviewTextSmall: "2,233 Reviews",
+            subtext: "2,233 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "447",
+            reviewTextSmall: "447 Reviews",
+            subtext: "447 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Southern Avenue, Kolkata",
+        address: "14B, Anil Roy Road, Southern Avenue, Kolkata",
+        localityUrl: "kolkata/southern-avenue-restaurants",
+      },
+      timing: {
+        text: "Closes in 1 hour 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/sea-food/",
+          name: "Seafood",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mangalorean/",
+          name: "Mangalorean",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/bengali/",
+          name: "Bengali",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/fusion-fantasea-southern-avenue/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18377076","element_type":"listing","rank":75}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/fusion-fantasea-southern-avenue/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18568762,
+      name: "Kouzina Mining Co.",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/2/18568762/29c553731b23f16a77334e769458ebc2_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/2/18568762/29c553731b23f16a77334e769458ebc2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/2/18568762/5bbe69f911cb7bce89387e3d9698e875_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "2,472",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "1,211",
+            reviewTextSmall: "1,211 Reviews",
+            subtext: "1,211 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.9",
+            reviewCount: "1,261",
+            reviewTextSmall: "1,261 Reviews",
+            subtext: "1,261 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.9",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,200 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 1, Salt Lake, Kolkata",
+        address: "AD 79, Sector 1, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-1-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/health-food/",
+          name: "Healthy Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,200 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/kouzina-mining-co-sector-1-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4.9 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18568762","element_type":"listing","rank":76}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/kouzina-mining-co-sector-1-salt-lake/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 25587,
+      name: "TGI Fridays",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/25587/11af7275e1fad5374db41038d831c4e3_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/25587/11af7275e1fad5374db41038d831c4e3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/25587/a9d23a1e567ad2c7b44d557c0fb1af57_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "3,050",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "2,489",
+            reviewTextSmall: "2,489 Reviews",
+            subtext: "2,489 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "561",
+            reviewTextSmall: "561 Reviews",
+            subtext: "561 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Elgin, Kolkata",
+        address:
+          "10/3, 2nd Floor, Forum Courtyard, Lala Rajpat Rai Sarani, Elgin, Kolkata",
+        localityUrl: "kolkata/elgin-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mexican/",
+          name: "Mexican",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMVwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/american/",
+          name: "American",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/sea-food/",
+          name: "Seafood",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,800 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 25% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/tgi-fridays-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"25587","element_type":"listing","rank":77}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/tgi-fridays-elgin/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19236255,
+      name: "Marbella's",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/5/19236255/aa5e839234d6586cb3a513deb7d42809_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/5/19236255/aa5e839234d6586cb3a513deb7d42809_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/5/19236255/2e5ee61817025adffe4f83d6944c851f_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.0",
+        rating_text: "4.0",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "1,001",
+        subtext: "REVIEW",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.1",
+            reviewCount: "817",
+            reviewTextSmall: "817 Reviews",
+            subtext: "817 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.1",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.9",
+            reviewCount: "184",
+            reviewTextSmall: "184 Reviews",
+            subtext: "184 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.9",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Hindustan Park, Kolkata",
+        address: "29 A, Hindustan Park, Kolkata",
+        localityUrl: "kolkata/hindustan-park-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/marbellas-1-hindustan-park/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.1 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19236255","element_type":"listing","rank":78}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/marbellas?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18723298,
+      name: "Barbeque Nation",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/2/20842/fcf8076b322d48db8c19a2751acc3520_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/2/20842/fcf8076b322d48db8c19a2751acc3520_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/2/20842/ba0ace0f3ce2794fbd54cc762ea3de8f_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.0",
+        rating_text: "4.0",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "3,007",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.4",
+            reviewCount: "1,324",
+            reviewTextSmall: "1,324 Reviews",
+            subtext: "1,324 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.4",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.6",
+            reviewCount: "1,683",
+            reviewTextSmall: "1,683 Reviews",
+            subtext: "1,683 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.6",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Lake Mall, Rash Behari Avenue, Kolkata",
+        address:
+          "Shop 410, 104, 4th Floor, Lake Mall, Rash Behari Avenue, Lake Market Area, Kolkata",
+        localityUrl: "kolkata/restaurants/in/lake-mall-rash-behari-avenue",
+      },
+      timing: {
+        text: "Closes in 1 hour 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/bbq/",
+          name: "BBQ",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/barbeque-nation-lake-market-area/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18723298","element_type":"listing","rank":79}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/barbeque-nation-lake-market-area/book",
+      },
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/barbeque-nation?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18265462,
+      name: "The Country House",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/2/18265462/c7c201bde299485288f992cde0ccc8aa_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/2/18265462/c7c201bde299485288f992cde0ccc8aa_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/2/18265462/e887f735a1450b73ad25c317d2d3d8c1_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "2,421",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "1,349",
+            reviewTextSmall: "1,349 Reviews",
+            subtext: "1,349 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "1,072",
+            reviewTextSmall: "1,072 Reviews",
+            subtext: "1,072 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Elgin, Kolkata",
+        address: "4C, Allenby Road, Near Forum Mall, Elgin, Kolkata",
+        localityUrl: "kolkata/elgin-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/the-country-house-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18265462","element_type":"listing","rank":80}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/the-country-house-elgin/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 23831,
+      name: "Cafe Mezzuna",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/1/23831/35fa623192299ccf919d2d513b998bec_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/1/23831/35fa623192299ccf919d2d513b998bec_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/1/23831/4c996a37ea763191fca928670a75b555_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "5,191",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "3,817",
+            reviewTextSmall: "3,817 Reviews",
+            subtext: "3,817 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "1,374",
+            reviewTextSmall: "1,374 Reviews",
+            subtext: "1,374 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Forum Mall, Elgin, Kolkata",
+        address: "10/3, 4th Floor, Forum Mall, Elgin Road, Near Elgin, Kolkata",
+        localityUrl: "kolkata/restaurants/in/forum-mall-elginroad",
+      },
+      timing: {
+        text: "Closes in 1 hour 1 minute",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pasta/",
+          name: "Pasta",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/cafe-mezzuna-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"23831","element_type":"listing","rank":81}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/cafe-mezzuna-elgin/book",
+      },
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/cafe-mezzuna?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 24760,
+      name: "Fly Kouzina",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/0/24760/1a859196eb2ad9af0d356a051f093182_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/0/24760/1a859196eb2ad9af0d356a051f093182_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/0/24760/6d674b34fae892245c76049e7a911d81_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "4,954",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.6",
+            reviewCount: "1,947",
+            reviewTextSmall: "1,947 Reviews",
+            subtext: "1,947 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.6",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.8",
+            reviewCount: "3,007",
+            reviewTextSmall: "3,007 Reviews",
+            subtext: "3,007 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.8",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,100 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 1, Salt Lake, Kolkata",
+        address: "AD 73, Near BD Market Bus Stop, Sector 1, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-1-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTc4XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/kebab/",
+          name: "Kebab",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTQzXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/health-food/",
+          name: "Healthy Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,100 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/fly-kouzina-sector-1-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"24760","element_type":"listing","rank":82}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/fly-kouzina-sector-1-salt-lake/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19028535,
+      name: "East India Room",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/5/19028535/7e7cf75f8c4d32314171667e297a830a_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/5/19028535/7e7cf75f8c4d32314171667e297a830a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/5/19028535/da0115204534270655edf82d7039a324_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.0",
+        rating_text: "4.0",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "216",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "208",
+            reviewTextSmall: "208 Reviews",
+            subtext: "208 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "8",
+            reviewTextSmall: "8 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Kankurgachi, Kolkata",
+        address: "89C, Maulana Abul Kalam Azad Sarani, Kankurgachi, Kolkata",
+        localityUrl: "kolkata/kankurgachi-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTMzXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/british/",
+          name: "British",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/bengali/",
+          name: "Bengali",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/east-india-room-2-kankurgachi/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.9 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19028535","element_type":"listing","rank":83}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/east-india-room-2-kankurgachi/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18897756,
+      name: "Momo I Am",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/8/18198678/a7d51c97646ec090680e8ae94935f31b_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/chains/8/18198678/a7d51c97646ec090680e8ae94935f31b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/chains/8/18198678/e0a67db03059236f2e00d48602bfb15f_o2_featured_v2.jpeg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.4",
+        rating_text: "4.4",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "2,822",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.7",
+            reviewCount: "1,547",
+            reviewTextSmall: "1,547 Reviews",
+            subtext: "1,547 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.7",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "1,275",
+            reviewTextSmall: "1,275 Reviews",
+            subtext: "1,275 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 5, Salt Lake, Kolkata",
+        address: "RBD Cinema, 1st Floor, Sector 5, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-5-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/momos/",
+          name: "Momos",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/tibetan/",
+          name: "Tibetan",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/asian/",
+          name: "Asian",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/momo-i-am-sector-5-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "7.2 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18897756","element_type":"listing","rank":84}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/momo-i-am?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19593293,
+      name: "Zold",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19593293/248d6446ea58c2882409ce5a79772a48_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/3/19593293/248d6446ea58c2882409ce5a79772a48_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/3/19593293/99b17ced1426d92f1e80f68b40355ae9_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.9",
+        rating_text: "3.9",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "101",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "3.9",
+            reviewCount: "85",
+            reviewTextSmall: "85 Reviews",
+            subtext: "85 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "3.9",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "16",
+            reviewTextSmall: "16 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹900 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Southern Avenue, Kolkata",
+        address:
+          "124B, 2nd Floor, Dr. Meghnad Shah Sarani, Southern Avenue, Kolkata",
+        localityUrl: "kolkata/southern-avenue-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/cafes/",
+          name: "Cafe",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹900 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/zold-southern-avenue/info",
+      clickActionDeeplink: "",
+    },
+    distance: "6.5 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19593293","element_type":"listing","rank":85}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 21346,
+      name: "Golden Joy",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/6/21346/3d97fd9ca886c85f6ae5ffc0da21713a_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/6/21346/3d97fd9ca886c85f6ae5ffc0da21713a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/6/21346/115d60c09994c196f966cc933ceeb7b7_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "6,465",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "2,730",
+            reviewTextSmall: "2,730 Reviews",
+            subtext: "2,730 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.0",
+            reviewCount: "3,735",
+            reviewTextSmall: "3,735 Reviews",
+            subtext: "3,735 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.0",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Tangra, Kolkata",
+        address:
+          "50/1, Matheswartala Tala Road, Near Gobinda Khatick Post Office, Tangra, Kolkata",
+        localityUrl: "kolkata/tangra-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODNcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/sea-food/",
+          name: "Seafood",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/golden-joy-tangra/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.9 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"21346","element_type":"listing","rank":86}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19647968,
+      name: "Sloshed By Spice Kraft",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/8/19647968/aa8011c2811cf5ce3c3cd1b0121807c3_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/8/19647968/aa8011c2811cf5ce3c3cd1b0121807c3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: false,
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "147",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.1",
+            reviewCount: "147",
+            reviewTextSmall: "147 Reviews",
+            subtext: "147 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.1",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "0",
+            reviewTextSmall: "0 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 5, Salt Lake, Kolkata",
+        address:
+          "1st Floor, Omega Building, Bengal Intelligent Park, Opposite Pantaloons, Sector 5, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-5-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiM1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/asian/",
+          name: "Asian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjI3XCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/bar-food/",
+          name: "Bar Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/sloshed-by-spice-kraft-sector-5-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "7.1 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19647968","element_type":"listing","rank":87}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18762917,
+      name: "Jungle Safari",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/18762917/25baccf536bec0cd56905349f3c65a59_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/18762917/25baccf536bec0cd56905349f3c65a59_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/18762917/67a2a0cc82a10e7b9326aefb301c1b43_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "860",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.3",
+            reviewCount: "746",
+            reviewTextSmall: "746 Reviews",
+            subtext: "746 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.3",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "4.1",
+            reviewCount: "114",
+            reviewTextSmall: "114 Reviews",
+            subtext: "114 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "4.1",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,000 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Mani Square Mall, Kankurgachi, Kolkata",
+        address:
+          "164/1, Mani Square Mall, EM Bypass, Maniktala Main Road, Kankurgachi, Kolkata",
+        localityUrl: "kolkata/restaurants/in/mani-square-mall-embypass",
+      },
+      timing: {
+        text: "Closes in 46 minutes",
+        color: "#e5521f",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/mughlai/",
+          name: "Mughlai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/biryani/",
+          name: "Biryani",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pasta/",
+          name: "Pasta",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,000 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/jungle-safari-kankurgachi/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.8 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18762917","element_type":"listing","rank":88}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19830567,
+      name: "Miam Cafe & Bistro",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19830567/2c106216d5044c448400657d3fcd030b_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/19830567/2c106216d5044c448400657d3fcd030b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19830567/0979ffde0a0f03aa8471e3da38bb7e62_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.8",
+        rating_text: "3.8",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "40",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "3.8",
+            reviewCount: "37",
+            reviewTextSmall: "37 Reviews",
+            subtext: "37 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "3.8",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "3",
+            reviewTextSmall: "3 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹800 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Sector 5, Salt Lake, Kolkata",
+        address:
+          "Plot -G2, Space 5B, Ground Floor, Tower 2, Block GP, Sector 5, Salt Lake, Kolkata",
+        localityUrl: "kolkata/sector-5-salt-lake-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/bbq/",
+          name: "BBQ",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹800 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 20% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/miam-cafe-bistro-sector-5-salt-lake/info",
+      clickActionDeeplink: "",
+    },
+    distance: "7.3 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19830567","element_type":"listing","rank":89}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 18343765,
+      name: "My Big Fat Belly",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/5/18343765/0fd3c1675069b89ed6180c8dab06fb23_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/5/18343765/0fd3c1675069b89ed6180c8dab06fb23_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/5/18343765/e17aa91f307d6a33c1898ceb2fb99f48_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.3",
+        rating_text: "4.3",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "12.5K",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.7",
+            reviewCount: "2,685",
+            reviewTextSmall: "2,685 Reviews",
+            subtext: "2,685 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.7",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "800",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.9",
+            reviewCount: "9,766",
+            reviewTextSmall: "9,766 Reviews",
+            subtext: "9,766 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.9",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹600 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Bhawanipur, Kolkata",
+        address: "22, Sarat Bose Road, Sreepally, Bhawanipur, Kolkata",
+        localityUrl: "kolkata/bhawanipur-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/pizza/",
+          name: "Pizza",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹600 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 15% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/my-big-fat-belly-bhawanipur/info",
+      clickActionDeeplink: "",
+    },
+    distance: "4.3 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"18343765","element_type":"listing","rank":90}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "chain_cta",
+        text: "View all outlets",
+        clickUrl: "/kolkata/restaurants/my-big-fat-belly?category=2",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19283687,
+      name: "Double Down",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19283687/b2ffe7663591ca359d5e240da48c3624_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/7/19283687/b2ffe7663591ca359d5e240da48c3624_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/7/19283687/5fb6f20dde86f435356ca4624a0801f3_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.1",
+        rating_text: "4.1",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "356",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "343",
+            reviewTextSmall: "343 Reviews",
+            subtext: "343 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.9",
+            reviewCount: "13",
+            reviewTextSmall: "13 Reviews",
+            subtext: "13 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.9",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹2,000 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Elgin, Kolkata",
+        address: "11/1, Sarat Bose Road, Elgin, Kolkata",
+        localityUrl: "kolkata/elgin-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/thai/",
+          name: "Thai",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹2,000 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/double-down-elgin/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.9 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19283687","element_type":"listing","rank":91}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [
+      {
+        type: "booking_cta",
+        text: "Book a Table",
+        clickUrl: "/kolkata/double-down-elgin/book",
+      },
+    ],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19166432,
+      name: "Glook The Sky Lounge",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/2/19166432/38cab52cd167bba74d744b2c32274cfd_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/2/19166432/38cab52cd167bba74d744b2c32274cfd_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: false,
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "4.2",
+        rating_text: "4.2",
+        rating_subtitle: "Very Good",
+        rating_color: "5BA829",
+        votes: "472",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.2",
+            reviewCount: "470",
+            reviewTextSmall: "470 Reviews",
+            subtext: "470 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.2",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "700",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "",
+            reviewCount: "2",
+            reviewTextSmall: "2 Reviews",
+            subtext: "Does not offer Delivery",
+            color: "",
+            ratingV2: "-",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "grey",
+              tint: "500",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "New Town, Kolkata",
+        address:
+          "The Terminus, BG 12, 5th Floor, Action Area 1B, New Town, Kolkata",
+        localityUrl: "kolkata/new-town-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/fast-food/",
+          name: "Fast Food",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: [],
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/glook-the-sky-lounge-new-town/info",
+      clickActionDeeplink: "",
+    },
+    distance: "10 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19166432","element_type":"listing","rank":92}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [],
+  },
+  {
+    type: "restaurant",
+    info: {
+      resId: 19527789,
+      name: "Nawwarah Dine Lounge & Sweets",
+      image: {
+        url: "https://b.zmtcdn.com/data/pictures/9/19527789/06288928a2778a9fcb48dad9f521cb40_featured_v2.jpg",
+        urlWithParams:
+          "https://b.zmtcdn.com/data/pictures/9/19527789/06288928a2778a9fcb48dad9f521cb40_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A",
+      },
+      o2FeaturedImage: {
+        url: "https://b.zmtcdn.com/data/pictures/9/19527789/272d8c217ffa83fe61b176f39665e268_o2_featured_v2.jpg",
+      },
+      rating: {
+        has_fake_reviews: 0,
+        aggregate_rating: "3.8",
+        rating_text: "3.8",
+        rating_subtitle: "Good",
+        rating_color: "9ACD32",
+        votes: "475",
+        subtext: "REVIEWS",
+        is_new: false,
+      },
+      ratingNew: {
+        newlyOpenedObj: null,
+        suspiciousReviewObj: null,
+        ratings: {
+          DINING: {
+            rating_type: "DINING",
+            rating: "4.0",
+            reviewCount: "227",
+            reviewTextSmall: "227 Reviews",
+            subtext: "227 Dining Reviews",
+            color: "#1C1C1C",
+            ratingV2: "4.0",
+            subtitle: "DINING",
+            sideSubTitle: "Dining Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+          },
+          DELIVERY: {
+            rating_type: "DELIVERY",
+            rating: "3.6",
+            reviewCount: "248",
+            reviewTextSmall: "248 Reviews",
+            subtext: "248 Delivery Reviews",
+            color: "#E23744",
+            ratingV2: "3.6",
+            subtitle: "DELIVERY",
+            sideSubTitle: "Delivery Reviews",
+            bgColorV2: {
+              type: "green",
+              tint: "600",
+            },
+            newOnDelivery: false,
+          },
+        },
+      },
+      cft: {
+        text: "₹1,500 for two",
+      },
+      cfo: {
+        text: "₹350 for one",
+      },
+      locality: {
+        name: "Ballygunge, Kolkata",
+        address:
+          "48A, Syed Amir Ali Avenue, Lower Range, Beck Bagan, Ballygunge, Kolkata",
+        localityUrl: "kolkata/ballygunge-restaurants",
+      },
+      timing: {
+        text: "",
+        color: "",
+      },
+      cuisine: [
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/north-indian/",
+          name: "North Indian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/chinese/",
+          name: "Chinese",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/continental/",
+          name: "Continental",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+          url: "https://www.zomato.com/kolkata/restaurants/italian/",
+          name: "Italian",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/beverages/",
+          name: "Beverages",
+        },
+        {
+          deeplink:
+            "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+          url: "https://www.zomato.com/kolkata/restaurants/desserts/",
+          name: "Desserts",
+        },
+      ],
+      should_ban_ugc: false,
+      costText: {
+        text: "₹1,500 for two",
+      },
+    },
+    order: [],
+    gold: {
+      text: "Pro - Get 25% off",
+    },
+    takeaway: [],
+    cardAction: {
+      text: "",
+      clickUrl: "/kolkata/nawwarah-dine-lounge-sweets-ballygunge/info",
+      clickActionDeeplink: "",
+    },
+    distance: "3.8 km",
+    isPromoted: false,
+    promotedText: "",
+    trackingData: [
+      {
+        table_name: "zsearch_events_log",
+        payload:
+          '{"search_id":"323f089e-a4a8-4670-9f9f-f5b231d174ee","location_type":"delivery_cell","location_id":"4180033504081346560","page_type":"dineout","app_type":"new_web_consumer","section":"restaurants","entity_type":"restaurant","entity_id":"19527789","element_type":"listing","rank":93}',
+        event_names: {
+          tap: '{"action":"tap"}',
+          impression: '{"action":"impression"}',
+        },
+      },
+    ],
+    allCTA: [],
+    promoOffer: "",
+    checkBulkOffers: false,
+    bulkOffers: [],
+    isDisabled: false,
+    bottomContainers: [
+      {
+        image: {
+          url: "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+          aspect_ratio: 2.66666666667,
+        },
+        text: "Follows all Max Safety measures for a safe dining experience",
+      },
+    ],
+  },
 ];
