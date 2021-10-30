@@ -7,7 +7,7 @@ const Explore = ({ restaurants, collectionName }) => {
     <div className="max-width explore-section">
       <div className="collection-title">{collectionName}</div>
       <div className="explore-grid">
-        {restaurants.map((restaurant) => {
+        {restaurants?.map((restaurant) => {
           return (
             <ExploreCard
               restaurant={restaurant}
