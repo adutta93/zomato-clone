@@ -35,12 +35,13 @@ const TabOptions = ({ activeTab, setActiveTab }) => {
   return (
     <div className="tab-options">
       <div className="max-width options-wrapper">
-        {tabs.map((tab) => (
+        {tabs.map((tab, index) => (
           <div
             onClick={() => setActiveTab(tab.name)}
             className={`tab-item absolute-center cur-po ${
               activeTab === tab.name && "active-tab"
             }`}
+            key={index}
           >
             <div
               className="tab-image-container absolute-center"

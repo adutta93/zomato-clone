@@ -6,8 +6,8 @@ const Filters = ({ filters }) => {
   return (
     <div className="filters">
       {filters &&
-        filters.map((filter) => {
-          return <FilterItem filter={filter} key={filters.id} />;
+        filters.map((filter, index) => {
+          return <FilterItem filter={filter} key={index} />;
         })}
     </div>
   );

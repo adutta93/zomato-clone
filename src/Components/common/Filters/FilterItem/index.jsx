@@ -2,7 +2,6 @@ import React from "react";
 
 import "./filteritem.css";
 const FilterItem = ({ filter: { title, icon } }) => {
-  console.log(title, icon);
   return (
     <div className="filter-item">
       {icon && icon}
