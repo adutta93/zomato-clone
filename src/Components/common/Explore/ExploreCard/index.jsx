@@ -34,7 +34,8 @@ const ExploreCard = ({ restaurant }) => {
         <div className="res-name">{name}</div>
         {rating && (
           <div className="res-rating absolute-center">
-            {rating} <i className="fi fi-rr-star absolute-center"></i>
+            {rating}
+            <i className="fi fi-ss-star rating-star absolute-center"></i>
           </div>
         )}
       </div>
@@ -48,12 +49,13 @@ const ExploreCard = ({ restaurant }) => {
                 </span>
               );
             })}
-            {approxPrice && <div className="approx-price">{approxPrice}</div>}
           </div>
         )}
+        {approxPrice && <div className="res-price">{approxPrice}</div>}
       </div>
       {bottomContainers.length > 0 && (
-        <div className="card-seperator">
+        <>
+          <div className="card-seperator"></div>
           <div className="explore-bottom">
             <img
               src={bottomContainers[0]?.image?.url}
@@ -62,7 +64,7 @@ const ExploreCard = ({ restaurant }) => {
             />
             <div className="res-bottom-text">{bottomContainers[0]?.text}</div>
           </div>
-        </div>
+        </>
       )}
     </div>
   );
