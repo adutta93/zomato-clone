@@ -24,7 +24,7 @@
   margin: 8px;
   border-radius: 5px;
   /* border: 1px solid #2b2eff; */
-  color: var(--color-btn);
+  color: var(--new-zomato-red);
   cursor: pointer;
   margin-left: 26px;
   box-shadow: var(--card-box-shadow-pag);
@@ -32,8 +32,9 @@
 }
 
 .paginationBttns a:hover {
-  color: white;
-  background-color: var(--color-btn);
+  color: var(--new-zomato-red);
+  border: 1px solid var(--new-zomato-red);
+  background-color: var(--primary-bg);
 }
 
 .paginationBttns a:hover,
@@ -43,7 +44,7 @@
 }
 .paginationActive a {
   color: white;
-  background-color: var(--color-btn);
+  background-color: var(--new-zomato-red);
 }
 
 .paginationDisabled a {
