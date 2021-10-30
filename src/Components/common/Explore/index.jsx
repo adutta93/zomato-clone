@@ -8,7 +8,12 @@ const Explore = ({ restaurants, collectionName }) => {
       <div className="collection-title">{collectionName}</div>
       <div className="explore-grid">
         {restaurants.map((restaurant) => {
-          return <ExploreCard restaurant={restaurant} />;
+          return (
+            <ExploreCard
+              restaurant={restaurant}
+              key={restaurant?.info?.resId}
+            />
+          );
         })}
       </div>
     </div>

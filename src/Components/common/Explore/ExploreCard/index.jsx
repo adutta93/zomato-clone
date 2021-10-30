@@ -21,6 +21,8 @@ const ExploreCard = ({ restaurant }) => {
       : offers.length === 1
       ? offers[0].text
       : null;
+
+  console.log("Dining page ===>", cuisines?.length);
   return (
     <div className="explore-card cur-po">
       <div className="explore-card-cover">
@@ -40,7 +42,7 @@ const ExploreCard = ({ restaurant }) => {
         )}
       </div>
       <div className="res-row">
-        {cuisines.length && (
+        {cuisines?.length && (
           <div className="res-cuisine">
             {cuisines.map((item, i) => {
               return (
