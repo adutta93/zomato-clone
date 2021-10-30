@@ -1,7 +1,18 @@
 import React from "react";
 import "./explore.css";
-const Explore = () => {
-  return <div>Explore</div>;
+import ExploreCard from "./ExploreCard";
+
+const Explore = ({ restaurants, collectionName }) => {
+  return (
+    <div className="max-width explore-section">
+      <div className="collection-title">{collectionName}</div>
+      <div className="explore-grid">
+        {restaurants.map((restaurant) => {
+          return <ExploreCard restaurant={restaurant} />;
+        })}
+      </div>
+    </div>
+  );
 };
 
 export default Explore;

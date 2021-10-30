@@ -4,7 +4,7 @@ import Explore from "../common/Explore";
 import TopBrands from "./TopBrands/index";
 import DeliveryCollections from "./DeliveryCollections";
 import "./delivery.css";
-
+import { restaurants } from "../../data/restaurants";
 const filters = [
   {
     id: 1,
@@ -40,7 +40,10 @@ const Delivery = () => {
         <Filters filters={filters} />
         <DeliveryCollections />
         <TopBrands />
-        <Explore />
+        <Explore
+          restaurants={restaurants}
+          collectionName="Delivery Restaurants in Kolkata"
+        />
       </div>
     </div>
   );
